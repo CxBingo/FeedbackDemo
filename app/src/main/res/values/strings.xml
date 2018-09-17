@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FeedbackDemo</string>
+    <string name="hint_text">请输入意见</string>
+    <string name="sure_text">提交意见</string>
+
+</resources>
